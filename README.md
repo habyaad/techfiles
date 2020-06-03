@@ -1,2 +1,0 @@
-# techfiles
-One for all
